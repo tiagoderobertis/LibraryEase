@@ -51,8 +51,6 @@ namespace LibraryEase.Repositories
 
         public List<int> GetBooksByTitle(string title)
         {
-
-
             return SearchBooks(title, "Title");
         }
 

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|c:\\users\\tiago\\source\\repos\\myprojects\\libraryease\\libraryease\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|solutionrelative:libraryease\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|c:\\users\\tiago\\source\\repos\\myprojects\\libraryease\\libraryease\\views\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|solutionrelative:libraryease\\views\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|c:\\users\\tiago\\source\\repos\\myprojects\\libraryease\\libraryease\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|solutionrelative:libraryease\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|c:\\users\\tiago\\source\\repos\\myprojects\\libraryease\\libraryease\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|solutionrelative:libraryease\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|c:\\users\\tiago\\source\\repos\\myprojects\\libraryease\\libraryease\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|solutionrelative:libraryease\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|c:\\users\\tiago\\source\\repos\\myprojects\\libraryease\\libraryease\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F2A263-F8CE-49E9-A716-584227F7C607}|LibraryEase\\LibraryEase.csproj|solutionrelative:libraryease\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,65 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\LoanRepository.cs",
-              "RelativeDocumentMoniker": "LibraryEase\\Repositories\\LoanRepository.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\LoanRepository.cs",
-              "RelativeToolTip": "LibraryEase\\Repositories\\LoanRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T20:46:12.776Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Models\\Loan.cs",
-              "RelativeDocumentMoniker": "LibraryEase\\Models\\Loan.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Models\\Loan.cs",
-              "RelativeToolTip": "LibraryEase\\Models\\Loan.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryEase\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryEase\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T20:09:29.849Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-12-13T20:19:57.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "LibraryEase\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\Repository.cs",
-              "RelativeToolTip": "LibraryEase\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Views\\Main.cs",
+              "RelativeDocumentMoniker": "LibraryEase\\Views\\Main.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Views\\Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LibraryEase\\Views\\Main.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T20:12:54.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\ILoanRepository.cs",
-              "RelativeDocumentMoniker": "LibraryEase\\Repositories\\ILoanRepository.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\MyProjects\\LibraryEase\\LibraryEase\\Repositories\\ILoanRepository.cs",
-              "RelativeToolTip": "LibraryEase\\Repositories\\ILoanRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T20:42:04.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-12-13T20:19:43.323Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         },

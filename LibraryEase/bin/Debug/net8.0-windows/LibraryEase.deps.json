@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v8.0": {
       "LibraryEase/1.0.0": {
         "dependencies": {
+          "MaterialSkin": "0.2.1",
+          "MaterialSkin.NET5": "1.0.2",
+          "MaterialSkin.Updated": "0.2.2",
           "Microsoft.EntityFrameworkCore.Design": "9.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0"
@@ -24,6 +27,16 @@
           }
         }
       },
+      "MaterialSkin/0.2.1": {},
+      "MaterialSkin.NET5/1.0.2": {
+        "runtime": {
+          "lib/net5.0-windows7.0/MaterialSkin.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "MaterialSkin.Updated/0.2.2": {},
       "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -821,6 +834,27 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "MaterialSkin/0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/6AEh6qIeNKbxsha7IHBb5s50tyvB0iZuGQPB9mjyR+mRdfQ7vnKTklwI26Y/DbrymTcg+aBHSgCgAT7/qLIrQ==",
+      "path": "materialskin/0.2.1",
+      "hashPath": "materialskin.0.2.1.nupkg.sha512"
+    },
+    "MaterialSkin.NET5/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gsNBQF4dQJKilvw9nUIBomqMhRQ8cffNTaZGC37O/cZ53QrZAOh2sX+DI9NHyi6conkULY5/0dfaY4F9gOtLdg==",
+      "path": "materialskin.net5/1.0.2",
+      "hashPath": "materialskin.net5.1.0.2.nupkg.sha512"
+    },
+    "MaterialSkin.Updated/0.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X4FGDVbHUb0h/gBTje6nPk3tYokwPqDA4+2PsMm28z736j/B2CNsLNeDOIzqqvdmCm6hfD5amFRQPf4HU9BmGQ==",
+      "path": "materialskin.updated/0.2.2",
+      "hashPath": "materialskin.updated.0.2.2.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
       "type": "package",

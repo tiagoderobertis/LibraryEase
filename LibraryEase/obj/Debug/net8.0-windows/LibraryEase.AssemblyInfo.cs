@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryEase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+929de23dba040fcff03da1219a5b7beaf34b3464")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryEase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryEase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
